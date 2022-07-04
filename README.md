@@ -1,2 +1,1 @@
-<img width="500" height="500" src="https://user-images.githubusercontent.com/31727007/177125164-436dc656-de2d-49cc-a16a-e409fffabbf8.png">
-
+<img src="https://readme-typing-svg.herokuapp.com?color=FF3A32&width=500&lines=just+an+ordinary+boy+in+the+cruel+world">
